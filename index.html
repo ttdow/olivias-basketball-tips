@@ -23,6 +23,12 @@
         padding: 2rem;
       }
 
+      main {
+        display: grid;
+        justify-items: center;
+        gap: 2rem;
+      }
+
       h1 {
         margin: 0;
         max-width: 16ch;
@@ -33,11 +39,19 @@
         text-align: center;
         text-wrap: balance;
       }
+
+      img {
+        display: block;
+        width: min(70vw, 22rem);
+        height: auto;
+        border-radius: 1.5rem;
+      }
     </style>
   </head>
   <body>
     <main>
       <h1>Olivia’s basketball tips</h1>
+      <img src="assets/basketball.png" alt="An orange basketball with black seams" width="1024" height="1024">
     </main>
   </body>
 </html>

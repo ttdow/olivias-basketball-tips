@@ -1,0 +1,5 @@
+Generated with the built-in image generation tool.
+Saved asset: assets/basketball.png
+
+Prompt:
+Use case: product-mockup. Asset type: a photograph for a simple basketball tips website. Primary request: one realistic orange basketball with classic black curved seams, centered, fully visible, subtly pebbled leather texture. Clean product photography with soft natural studio lighting, gentle grounding shadow. Background solid warm ivory #fff8ef to match the website. Square composition, basketball fills about 75 percent of the frame. No brand logos, no text, no people, no extra objects.
